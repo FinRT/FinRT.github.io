@@ -7,13 +7,13 @@ body {
     background-color: white;
     border: 1px solid;
     padding: 10px;
-    width: 400px;
+    width: 800px;
+    height: 800px;
     margin: 25px auto 0px auto;
     border-radius: 5px;
 }
 
 .container img {
-    width: 300px;
     margin: 0px auto;
     display: block;
     border-radius: 5px;
@@ -31,11 +31,4 @@ body {
     margin: 0px auto;
     text-align: center;
     font-size: 0.8em;
-}
-
-#Viereck{
-    width: 200px;
-    height: 200px;
-    background-color: aquamarine;
-    margin: 20px;
 }
