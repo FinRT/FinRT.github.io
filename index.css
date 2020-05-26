@@ -10819,11 +10819,12 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .page-header {
-  background-color: #323232;
+  background-image: url("images/header-background.jpg");
   height: 400px;
 }
 
 .navbar-dark .navbar-brand {
-  color: yellow;
+  color: #fed136;
+  font-style: italic;
 }
 /*# sourceMappingURL=index.css.map */
